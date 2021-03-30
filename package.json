@@ -40,6 +40,7 @@
     "fs-extra-promise": "^1.0.1",
     "helmet": "^4.4.1",
     "hot-shots": "^8.3.0",
+    "moment": "^2.29.1",
     "on-headers": "^1.0.2",
     "reflect-metadata": "^0.1.13",
     "safe-buffer": "^5.2.1",
